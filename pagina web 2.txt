@@ -1,0 +1,20 @@
+<!DOCTIPE html>
+<html lang="es">
+   <head>
+   <meta charset="utf-8"> 
+  <title>CLOTHES STORE</title> 
+       <style type="text/css"></style>
+        </head>
+    <body>
+        <font color= "#000000" face="Times New Roman"><center><h1>CLOTHES STORE</h1></center></font>
+        <font color= "#000000" face="Times New Roman"><center><h2>Ropa es lo que compras, moda es lo que te acomoda</h2></center></font>
+        <button><a href="CURSO BÁSICO EXCEL.xlms"><font color= "#000000" face="Times New Roman"><left><h1><NAV>NIÑOS</NAV></h1></left></font></button>
+        <button><font color= "#000000" face="Times New Roman"><righ><h1><NAV>DAMAS</NAV></h1></righ></font></button>
+        <button><font color= "#000000" face="Times New Roman"><left><h1><NAV>CABALLEROS</NAV></h1></left></font></button>
+        <section>
+        <article>boton de compras</article>
+        </section>
+        <footer>Ubicación</footer>
+    
+     
+    </body> 
